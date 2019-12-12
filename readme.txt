@@ -1,6 +1,1 @@
-Git hello
-hi,piwenxin
-the third ok
-error
-hi
-last test
+这是我第一次使用Git与Github，你好。
