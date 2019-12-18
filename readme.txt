@@ -1,6 +1,8 @@
 这是我第一次使用Git与Github，你好。
 ubuntu18.04的源：
 
+git push -u origin master
+
 deb http://mirrors.aliyun.com/ubuntu/ bionic main restricted universe multiverse
 # deb-src http://mirrors.aliyun.com/ubuntu/ bionic main restricted universe multiverse
 
