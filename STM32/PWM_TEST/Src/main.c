@@ -91,6 +91,7 @@ int main(void)
   MX_TIM3_Init();
   /* USER CODE BEGIN 2 */
 	HAL_TIM_PWM_Start(&htim3,TIM_CHANNEL_1);
+	__HAL_TIM_SetCompare(&htim3,TIM_CHANNEL_1,5);
   /* USER CODE END 2 */
 
   /* Infinite loop */
